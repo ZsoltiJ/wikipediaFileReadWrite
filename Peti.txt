@@ -1,0 +1,2 @@
+username = Szpetertester
+password = Asdqwe123
