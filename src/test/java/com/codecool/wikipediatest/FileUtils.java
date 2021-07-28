@@ -32,7 +32,7 @@ public class FileUtils {
         try {
             FileWriter textFile = new FileWriter("searchResults.txt");
 
-                textFile.append(title + " : \n" + paragraph);
+                textFile.append(title + " : \n" + paragraph + "\n");
 
             textFile.close();
             return null;
